@@ -1,0 +1,7 @@
+/*.tar.gz
+/*.tgz
+/*.zip
+/dill/
+/paramiko/
+/ecdsa/
+/example
